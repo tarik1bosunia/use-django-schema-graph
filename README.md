@@ -27,5 +27,4 @@ urlpatterns = [
 ]
 ```
 
-![schema image]("readme%20images/1.png" schema)
 ![Schema Default Django](./readme%20images/1.png "Schema Default Django")
